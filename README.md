@@ -1,6 +1,8 @@
 # LaTeX Project (ACM Template)
 
 ## Overview
+Project Title: Towards Transparent Crime Prediction: A Random Forest and XAI Approach
+
 This project contains a LaTeX document formatted using the [ACM](https://www.acm.org/publications/proceedings-template)  It is intended for academic or research paper submissions. 
 
 The document is edited using Overleaf, and the latest version is maintained in this GitHub repository.
